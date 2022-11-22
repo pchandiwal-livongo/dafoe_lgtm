@@ -1,6 +1,8 @@
 import * as path from 'path';
 
 import { runTests } from '@vscode/test-electron';
+import { Hash } from 'crypto';
+import { hasUncaughtExceptionCaptureCallback } from 'process';
 
 async function main() {
 	try {
@@ -21,3 +23,4 @@ async function main() {
 }
 
 main();
+
