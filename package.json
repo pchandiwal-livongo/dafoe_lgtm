@@ -1,14 +1,14 @@
 {
-	"name": "in-your-face-incredible",
-	"displayName": "In Your Face",
-	"description": "In Your Face, shows you Incredible 'Ouch Faces' that correlate to the number of errors in your code!",
+	"name": "dafoe-lgtm",
+	"displayName": "Willem Dafoe reviews your code",
+	"description": "Dafoe LGTM, shows you Incredible 'Ouch Faces' that correlate to the number of errors in your code!",
 	"version": "1.0.0",
 	"publisher": "TTOOWA",
-	"homepage": "https://github.com/ttoowa",
+	"homepage": "https://github.com/pchandiwal-livongo",
 	"license": "MIT",
 	"repository": {
 	  "type": "git",
-	  "url": "https://github.com/ttoowa/InYourFace_incredible"
+	  "url": "https://github.com/pchandiwal-livongo/dafoe_lgtm"
 	},
 	"engines": {
 	  "vscode": "^1.61.0"
